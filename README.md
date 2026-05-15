@@ -118,13 +118,10 @@ This project is intended to improve understanding of:
 - modular software architecture
 
 ## Features
-- [ ] Master password authentication
-- [ ] AES-256-GCM encryption
-- [ ] Password hashing with scrypt or argon2
-- [ ] Secure memory wiping
-- [ ] Auto-lock vault after inactivity
-- [ ] Encrypted backups
-- [ ] Vault integrity verification
+- [ ] Get leaked password and change them
+- [ ] setup 2fa
+- [ ] one time pass auth
+- [ ] nuke delete everything 
 
 ## License
 

@@ -1,0 +1,20 @@
+# Binary
+passman
+passman.exe
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (contain encrypted vault)
+data/config.json
+data/vault.enc
+data/vault.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Go
+vendor/
