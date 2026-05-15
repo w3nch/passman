@@ -1,4 +1,4 @@
-module github.com/w3nch/passman.git
+module github.com/w3nch/passman
 
 go 1.26.2
 

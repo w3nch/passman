@@ -1,6 +1,6 @@
 # pass;D
 
-`pass;D` is a lightweight command-line password manager written in Go.  
+`passman` is a lightweight command-line password manager written in Go.  
 It provides a simple way to securely store, retrieve, and manage credentials locally from the terminal.
 
 The project is built for learning backend and systems programming concepts such as:
@@ -11,7 +11,6 @@ The project is built for learning backend and systems programming concepts such 
 - modular architecture
 - secure credential storage
 
----
 
 ## Features
 
@@ -40,7 +39,6 @@ pass;D/
 └── README.md
 ```
 
----
 
 ## Installation
 
@@ -48,7 +46,7 @@ Clone the repository:
 
 ```bash
 git clone <your-repo-url>
-cd pass\;D
+cd passman
 ```
 
 Initialize dependencies:
@@ -63,7 +61,6 @@ Run the project:
 go run cmd/main.go
 ```
 
----
 
 ## Usage
 
@@ -128,7 +125,6 @@ This project is intended to improve understanding of:
 - [ ] Auto-lock vault after inactivity
 - [ ] Encrypted backups
 - [ ] Vault integrity verification
----
 
 ## License
 
